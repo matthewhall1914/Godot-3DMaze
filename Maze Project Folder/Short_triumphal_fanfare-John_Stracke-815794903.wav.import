@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Short_triumphal_fanfare-John_Stracke-815794903.wav-859eabdf21d7135b3da7453c2b6b6ba7.sample"
+
+[deps]
+
+source_file="res://Short_triumphal_fanfare-John_Stracke-815794903.wav"
+dest_files=[ "res://.import/Short_triumphal_fanfare-John_Stracke-815794903.wav-859eabdf21d7135b3da7453c2b6b6ba7.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Computer Error Alert-SoundBible.com-783113881.wav-57f7fb0782b94e0f7f689cb9ce09c350.sample"
+
+[deps]
+
+source_file="res://Computer Error Alert-SoundBible.com-783113881.wav"
+dest_files=[ "res://.import/Computer Error Alert-SoundBible.com-783113881.wav-57f7fb0782b94e0f7f689cb9ce09c350.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
